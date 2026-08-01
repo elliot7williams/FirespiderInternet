@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>E:\FSIN17\|D:\FSIN17\|D:\FSIN15\|D:\FSIN10\|C:\Users\Elliot J Williams\Desktop\</PublishUrlHistory>
+    <InstallUrlHistory>http://192.168.2.17:8080/Updates/</InstallUrlHistory>
+    <SupportUrlHistory>http://fsin.webs.com/|http://www.wah-hoorobotics.piczo.com/</SupportUrlHistory>
+    <UpdateUrlHistory>http://h1.ripway.com/WAHHOO789/Firespider Internet 7.exe/|http://zumodl.com/file/download/496611253%3fkey=drQRMDI5Yz&amp;mtime=1309738433/|http://192.168.2.17:8080/Updates/|http://localhost/Firespider Internet 6/|http://localhost/Firespider Internet 4.3/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <ErrorReportUrlHistory>http://fsin.webs.com/|http://www.wah-hoorobotics.piczo.com/</ErrorReportUrlHistory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+</Project>
